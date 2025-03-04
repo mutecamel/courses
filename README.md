@@ -8,7 +8,7 @@
 
 <p align="center"><img src="images/teaching.drawio.svg" alt="Teaching Way" /></p>
 
-在考察评估多种可选方案的基础上，我们目前决定在国内的 `GitCode` 平台上托管我们的[课程资料](https://gitcode.com/cueb-fintech/courses)。对应每一个教学周 (共 16 周)，我们都建立了一个代码仓库 (布置任务)，通过 PR (Pull Requests) 机制接收同学们提交的 PDF 报告 (但不合并)。通过这种开源代码平台协作的方式，我们师生的 “行动” 都在平台上公开记录，并可以借助平台提供的 [GitCode API](https://docs.gitcode.com/docs/apis) 功能，以编程的方式把 “行动” 数据下载存储到本地，进而自动计分、呈现报表，甚至还可以利用 AI 辅助评阅，减轻教师负担。
+在考察评估多种可选方案的基础上，我们目前决定在国内的 `GitCode` 平台上托管我们的 [课程资料](https://gitcode.com/cueb-fintech/courses)。对应每一个教学周 (共 16 周)，我们都建立了一个代码仓库，通过 PR (Pull Requests) 机制来接收同学们提交的 PDF 报告 (但不合并)。通过这种开源代码平台协作的方式，我们师生的 “行动” 都在平台上公开记录，并可以借助平台提供的 [GitCode API](https://docs.gitcode.com/docs/apis) 功能，以编程的方式把 “行动” 数据下载存储到本地，进而自动计分、呈现报表，甚至还可以利用 AI 辅助评阅，减轻教师负担。
 
 <p align="center"><img src="images/working.drawio.svg" alt="Working Way" /></p>
 
@@ -43,3 +43,7 @@
 - (可选，最容易) 在课程仓库的 [**讨论区**](https://gitcode.com/cueb-fintech/courses/discussion) 发帖/回帖，欢迎提问 (提问规范可以参考: [CSDN](https://bbs.csdn.net/topics/603291003)、[StackOverflow](https://stackoverflow.com/help/how-to-ask))，欢迎互助，只要是与课程学习相关的内容都可以发，但要注意保护隐私
 - (可选，较容易) 在课程仓库的 [**Issues 区**](https://gitcode.com/cueb-fintech/courses/issues) 报告问题，从书写错误 (typo)、链接失效，到内容过时、改进建议等等，都可以报告，也可以参与回复和讨论，报告的问题会得到解决 (解决后问题会关闭)
 - (可选，最有价值) 向课程仓库 (注意不是每周打卡仓库) 发起 PR (Pull Requests) 提交贡献代码，帮助改正错误、增加内容等等 (有益的贡献会被合并进仓库)
+
+## 从这里开始
+
+金融等财经背景的学生，要同时成为面向未来的软件开发人员 (数据工程师、数据分析师、数据科学家、数据决策者、量化投资人)，还有很长的路要走。只上一个学期的课，根本是不够的，这仅仅只是开始。只输入、只学习，根本是不够的，要积累经验，要做事，要输出。世界上的开源项目有很多很多，但对于不知从哪里来的初学者，未必都那么友好。但至少，这里可以成为我们自己的家。我们有足够的权限，我们可以模拟开源社区的一切，我们对同学们的行为尽可能地开放和包容 (只要不违法)，我们保留一切客观记录，同学们在这里留下的一切 (比如作业、展示、问答、尤其是贡献) 我们都可以用 **学院官方** 的身份提供背书和认证。
