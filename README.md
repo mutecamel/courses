@@ -23,9 +23,9 @@
 |1|准备开发环境|[仓库](https://gitcode.com/cueb-fintech/week01)|[初级](01-beginner/01.tutorial.md) · [中级]() · [高级]()|
 |2|命令行与文件系统|[仓库](https://gitcode.com/cueb-fintech/week02)|[初级](01-beginner/02.tutorial.md) · [中级]() · [高级]()|
 |3|Python 项目|[仓库](https://gitcode.com/cueb-fintech/week03)|[初级](01-beginner/03.tutorial.md) · [中级]() · [高级]()|
-|4|Python 数据类型|[仓库](https://gitcode.com/cueb-fintech/week04)|[初级](01-beginner/04.tutorial.md) · [中级]() · [高级]()|
-|5|Python 脚本|[仓库](https://gitcode.com/cueb-fintech/week05)|[初级](01-beginner/05.tutorial.md) · [中级]() · [高级]()|
-|6|Jupyter、Markdown、LaTeX|[仓库](https://gitcode.com/cueb-fintech/week06)|[初级](01-beginner/06.tutorial.md) · [中级]() · [高级]()|
+|4|Python 程序开发|[仓库](https://gitcode.com/cueb-fintech/week04)|[初级](01-beginner/04.tutorial.md) · [中级]() · [高级]()|
+|5|Python 对象类型|[仓库](https://gitcode.com/cueb-fintech/week05)|[初级](01-beginner/05.tutorial.md) · [中级]() · [高级]()|
+|6|Python 代码组织|[仓库](https://gitcode.com/cueb-fintech/week06)|[初级](01-beginner/06.tutorial.md) · [中级]() · [高级]()|
 |7|数据可视化与交互|[仓库](https://gitcode.com/cueb-fintech/week07)|[初级](01-beginner/07.tutorial.md) · [中级]() · [高级]()|
 |8|数据清洗与计算|[仓库](https://gitcode.com/cueb-fintech/week08)|[初级](01-beginner/08.tutorial.md) · [中级]() · [高级]()|
 |9|网页爬取文本图片|[仓库](https://gitcode.com/cueb-fintech/week09)|[初级](01-beginner/09.tutorial.md) · [中级]() · [高级]()|
