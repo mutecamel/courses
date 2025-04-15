@@ -1,10 +1,16 @@
 # 金融 AI 编程实战
 
-> ## 曾用名：金融计算机语言、金融编程与计算、金融数据库
+> ### 曾用名：金融计算机语言、金融编程与计算、金融数据库
 
 > 持续建设中，欢迎参与添砖加瓦🌹
 
-<p align="center"><img src="images/cueb-ftlab-courses-qr-code.jpg" alt="微信扫一扫" width=200 /></p>
+<p align="center">
+<img src="images/cueb-ftlab-courses-qr-code.jpg" alt="扫二维码" width=200 />
+</br>
+(扫二维码，在 手机端📱 进入
+<a href="https://gitcode.com/cueb-fintech/courses#%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2">教学大纲</a>
+观看录播，在 电脑端💻 敲键盘完成操作任务)
+</p>
 
 ## 课程说明
 
@@ -20,24 +26,24 @@
 
 教学设计有两个维度：一是技术专题，二是技术深度。每周一个专题，是教学进度强制要求的，但每周的技术深度允许同学根据自己的情况选择。
 
-|周次|专题|报告提交|教程/任务|
+|周次|专题|学习报告提交|任务/教程/录播/参考资料|
 |:--:|---|:----:|:------:|
-|1|准备开发环境|[仓库](https://gitcode.com/cueb-fintech/week01)|[初级](01-beginner/01.tutorial.md) · [中级]() · [高级]()|
-|2|命令行与文件系统|[仓库](https://gitcode.com/cueb-fintech/week02)|[初级](01-beginner/02.tutorial.md) · [中级]() · [高级]()|
-|3|Python 项目|[仓库](https://gitcode.com/cueb-fintech/week03)|[初级](01-beginner/03.tutorial.md) · [中级]() · [高级]()|
-|4|Python 程序开发|[仓库](https://gitcode.com/cueb-fintech/week04)|[初级](01-beginner/04.tutorial.md) · [中级]() · [高级]()|
-|5|Python 对象类型|[仓库](https://gitcode.com/cueb-fintech/week05)|[初级](01-beginner/05.tutorial.md) · [中级]() · [高级]()|
-|6|Python 代码组织|[仓库](https://gitcode.com/cueb-fintech/week06)|[初级](01-beginner/06.tutorial.md) · [中级]() · [高级]()|
-|7|数据可视化与交互|[仓库](https://gitcode.com/cueb-fintech/week07)|[初级](01-beginner/07.tutorial.md) · [中级]() · [高级]()|
-|8|数据清洗与计算|[仓库](https://gitcode.com/cueb-fintech/week08)|[初级](01-beginner/08.tutorial.md) · [中级]() · [高级]()|
-|9|网页爬取文本图片|[仓库](https://gitcode.com/cueb-fintech/week09)|[初级](01-beginner/09.tutorial.md) · [中级]() · [高级]()|
-|10|调用 HTTP API|[仓库](https://gitcode.com/cueb-fintech/week10)|[初级](01-beginner/10.tutorial.md) · [中级]() · [高级]()|
-|11|SQL 数据库的连接与查询|[仓库](https://gitcode.com/cueb-fintech/week11)|[初级](01-beginner/11.tutorial.md) · [中级]() · [高级]()|
-|12|SQL 数据库的创建与写入|[仓库](https://gitcode.com/cueb-fintech/week12)|[初级](01-beginner/12.tutorial.md) · [中级]() · [高级]()|
-|13|编写 Web App|[仓库](https://gitcode.com/cueb-fintech/week13)|[初级](01-beginner/13.tutorial.md) · [中级]() · [高级]()|
-|14|回归分析应用|[仓库](https://gitcode.com/cueb-fintech/week14)|[初级](01-beginner/14.tutorial.md) · [中级]() · [高级]()|
-|15|机器学习应用|[仓库](https://gitcode.com/cueb-fintech/week15)|[初级](01-beginner/15.tutorial.md) · [中级]() · [高级]()|
-|16|大模型应用|[仓库](https://gitcode.com/cueb-fintech/week16)|[初级](01-beginner/16.tutorial.md) · [中级]() · [高级]()|
+|1|准备开发环境|[仓库](https://gitcode.com/cueb-fintech/week01/pulls)|[初级](01-beginner/01.tutorial.md) · [中级]() · [高级]()|
+|2|命令行与文件系统|[仓库](https://gitcode.com/cueb-fintech/week02/pulls)|[初级](01-beginner/02.tutorial.md) · [中级]() · [高级]()|
+|3|Python 项目|[仓库](https://gitcode.com/cueb-fintech/week03/pulls)|[初级](01-beginner/03.tutorial.md) · [中级]() · [高级]()|
+|4|Python 程序开发|[仓库](https://gitcode.com/cueb-fintech/week04/pulls)|[初级](01-beginner/04.tutorial.md) · [中级]() · [高级]()|
+|5|Python 对象类型|[仓库](https://gitcode.com/cueb-fintech/week05/pulls)|[初级](01-beginner/05.tutorial.md) · [中级]() · [高级]()|
+|6|Python 代码组织|[仓库](https://gitcode.com/cueb-fintech/week06/pulls)|[初级](01-beginner/06.tutorial.md) · [中级]() · [高级]()|
+|7|数据可视化与交互|[仓库](https://gitcode.com/cueb-fintech/week07/pulls)|[初级](01-beginner/07.tutorial.md) · [中级]() · [高级]()|
+|8|数据清洗与计算|[仓库](https://gitcode.com/cueb-fintech/week08/pulls)|[初级](01-beginner/08.tutorial.md) · [中级]() · [高级]()|
+|9|网页爬取文本图片|[仓库](https://gitcode.com/cueb-fintech/week09/pulls)|[初级](01-beginner/09.tutorial.md) · [中级]() · [高级]()|
+|10|调用 HTTP API|[仓库](https://gitcode.com/cueb-fintech/week10/pulls)|[初级](01-beginner/10.tutorial.md) · [中级]() · [高级]()|
+|11|SQL 数据库的连接与查询|[仓库](https://gitcode.com/cueb-fintech/week11/pulls)|[初级](01-beginner/11.tutorial.md) · [中级]() · [高级]()|
+|12|SQL 数据库的创建与写入|[仓库](https://gitcode.com/cueb-fintech/week12/pulls)|[初级](01-beginner/12.tutorial.md) · [中级]() · [高级]()|
+|13|编写 Web App|[仓库](https://gitcode.com/cueb-fintech/week13/pulls)|[初级](01-beginner/13.tutorial.md) · [中级]() · [高级]()|
+|14|回归分析应用|[仓库](https://gitcode.com/cueb-fintech/week14/pulls)|[初级](01-beginner/14.tutorial.md) · [中级]() · [高级]()|
+|15|机器学习应用|[仓库](https://gitcode.com/cueb-fintech/week15/pulls)|[初级](01-beginner/15.tutorial.md) · [中级]() · [高级]()|
+|16|大模型应用|[仓库](https://gitcode.com/cueb-fintech/week16/pulls)|[初级](01-beginner/16.tutorial.md) · [中级]() · [高级]()|
 
 ## 参与贡献
 
