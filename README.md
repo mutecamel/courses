@@ -4,7 +4,7 @@
 
 > 持续建设中，欢迎参与添砖加瓦🌹
 
-<p align="center"><img src="images/cueb-ftlab-courses-qr-code.jpg" alt="微信扫一扫，使用小程序" /></p>
+<p align="center"><img src="images/cueb-ftlab-courses-qr-code.jpg" alt="微信扫一扫，使用小程序" width=200 /></p>
 
 ## 课程说明
 
