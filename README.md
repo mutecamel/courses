@@ -8,7 +8,7 @@
 <img src="images/cueb-ftlab-courses-qr-code.jpg" alt="扫二维码" width=200 />
 </br>
 (扫二维码，在 手机端📱 进入
-<a href="https://gitcode.com/cueb-fintech/courses#%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2">教学大纲</a>
+<a href="#教学大纲">教学大纲</a>
 观看录播，在 电脑端💻 敲键盘完成操作任务)
 </p>
 
