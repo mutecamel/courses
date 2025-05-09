@@ -1,0 +1,9 @@
+#字符串大小比较的演示
+#abc比较abd
+print(f"abd大于abc，结果：{"abd">"abc"}")
+#ab与a比较
+print(f"ab大于a，结果：{"ab">"a"}")
+#a与A比较
+print(f"a大于A，结果：{"a">"A"}")
+#key1比较key2
+print(f"key2>key1的结果是：{"key2">"key1"}")

@@ -1,0 +1,11 @@
+mylist=[21,25,21,23,22,20]
+mylist.append(31)
+mylist2=[29.33,30]
+mylist.extend(mylist2)
+num=mylist[0]
+print(num)
+num2=mylist[-1]
+print(num2)
+index=mylist.index(31)
+print(index)
+print(mylist)

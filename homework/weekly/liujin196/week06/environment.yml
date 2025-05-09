@@ -1,0 +1,5 @@
+name: pybasic
+channels:
+  - defaults
+dependencies:
+  - python=3.12

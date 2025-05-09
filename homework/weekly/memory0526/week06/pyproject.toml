@@ -1,0 +1,24 @@
+[project]
+name = "mypackage"
+version = "2025.4.28"
+dependencies = [
+  "openpyxl"
+]
+authors = [
+  {name = "Luo Qingyao", email = "luoqingyao1103@163.com"},
+]
+description = "金融编程课程第六周内容"
+
+[project.optional-dependencies]
+dev = [
+    "Pytest",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = [
+  "src/mypkg"
+]

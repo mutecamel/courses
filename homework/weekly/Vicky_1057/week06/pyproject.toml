@@ -1,0 +1,24 @@
+[project]
+name = "mypackage"
+version = "2025.4.14"
+dependencies = [
+  "openpyxl",
+]
+authors = [
+  {name = "Vicky", email = "1796757476@163.com"},
+]
+description = "测试用的软件包"
+
+[project.optional-dependencies]
+dev = [
+  "pytest",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.target.wheel]
+packages = [
+  "src/mypkg",
+]

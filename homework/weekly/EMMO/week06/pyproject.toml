@@ -1,0 +1,17 @@
+
+[project]
+name = "mypackage"
+version = "3.12.24"
+dependencies = [
+    "openpyxl"
+]
+authors = [
+  {name = "Ji Cao", email = "pradyun@example.com"},
+]
+description = "学习使用软件包"
+
+[project.optional-dependencies]
+dev = [
+  "pytest"
+]
+

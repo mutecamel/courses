@@ -1,0 +1,71 @@
+from mypkg import mylib  # noqa: F401
+
+y = mylib.func1()
+print(y)
+
+try:
+    y = mylib.func1(0)
+except TypeError as e:
+    print(e)
+
+y = mylib.func2()
+print(y)
+
+y = mylib.func3(45)
+print(y)  # 位置实参
+
+y = mylib.func3(x=47)
+print(y)  # 命名实参
+
+try:
+    y = mylib.func3()
+except TypeError as e:
+    print(e)  # 不传实参
+try:
+    mylib.func3(y=47)
+except TypeError as e:
+    print(e)
+
+y = mylib.func4(48)
+print(y)  # 位置实参
+
+y = mylib.func4(x=49)
+print(y)  # 命名实参
+
+y = mylib.func4()
+print(y)  # 不传实参
+
+print(mylib.caculate(5, 10, "add"))
+print(mylib.caculate(operation="add", b=5, a=10))
+print(mylib.caculate(b=5, a=10))
+print(mylib.caculate(5, 10, operation="subtract"))
+print(mylib.caculate(5, 8, operation="subtract"))
+
+try:
+    print(mylib.func6(a=10, b=5))
+except TypeError as e:
+    print(e)
+
+try:
+    print(mylib.func7(10, 5, operation="subtract"))
+except TypeError as e:
+    print(e)
+
+print(mylib.func8(4, 8, 18, 5))
+print(mylib.func8())
+
+mylib.func9(name="Alice", age=25, city="New York")
+
+tuple_args = (10, 20)
+mylib.func10(*tuple_args)
+
+list_args = [10, 20]
+mylib.func10(*list_args)
+
+list_args = [50, 60, "new value"]
+mylib.func10(*list_args)
+
+params = {"arg1": 100, "arg2": 200}
+mylib.func11(**params)
+
+mylib.func12(7, 8, 9)

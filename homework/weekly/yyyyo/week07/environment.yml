@@ -1,0 +1,10 @@
+name: week07
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - jupyterlab
+  - pip
+  - pip:
+   - tushare
