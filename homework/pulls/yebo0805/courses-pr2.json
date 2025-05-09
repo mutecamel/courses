@@ -1,0 +1,113 @@
+{
+  "number": 2,
+  "html_url": "https://gitcode.com/cueb-fintech/courses/merge_requests/2",
+  "url": "https://gitcode.com/api/v5/repos/cueb-fintech/courses/pulls/2",
+  "close_related_issue": 0,
+  "prune_branch": false,
+  "draft": false,
+  "labels": [],
+  "user": {
+    "id": "67cda8736891be0d6ca5bd0e",
+    "user_id": "4515880",
+    "object_id": "67cda8736891be0d6ca5bd0e",
+    "login": "yebo0805",
+    "name": "yebo0805",
+    "state": "active",
+    "email": "",
+    "name_cn": "",
+    "html_url": "https://gitcode.com/yebo0805"
+  },
+  "assignees": [],
+  "testers": [],
+  "head": {
+    "label": "main",
+    "ref": "main",
+    "sha": "4631d2d9b9b172357ddb81dc8f14b5733f79f91c"
+  },
+  "base": {
+    "label": "main",
+    "ref": "main",
+    "sha": "0ec4dad5a865b266628461d0b2d6c70ed9e796ee",
+    "user": {
+      "id": "67bbb3b5f510074c7d28739e",
+      "login": "mutecamel",
+      "name": "mutecamel",
+      "state": "active",
+      "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+      "email": "mutecamel@gmail.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/mutecamel"
+    },
+    "repo": {
+      "id": 4797408,
+      "full_path": "cueb-fintech/courses",
+      "full_name": "cueb-fintech/courses",
+      "human_name": "首经贸金融科技实验室 / 金融AI编程实战",
+      "name": "金融AI编程实战",
+      "path": "courses",
+      "description": "为非计算机科班出身 (例如财经类高校金融学院) 同学量身定制，新手友好，让学生以亲身实践开源开发的方式，学会使用计算机自动化自己的科研/创新工作。案例以量化投资为主线，涉及 Bash、Python、SQL、BI、AI 等全技术栈，培养面向未来的数智化人才 (如数据工程师、数据分析师、数据科学家、数据决策者、量化投资人)。",
+      "owner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "assigner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/cueb-fintech/courses.git"
+    }
+  },
+  "id": 6651571,
+  "iid": 2,
+  "project_id": 4797408,
+  "title": "第一周交作业",
+  "body": "添加了学习报告，测试性的修改了 README\n添加了学习报告，测试性的修改了 README",
+  "state": "closed",
+  "assignees_number": 0,
+  "testers_number": 0,
+  "created_at": "2025-03-10T00:50:17+08:00",
+  "updated_at": "2025-03-16T18:22:33+08:00",
+  "merged_at": "",
+  "closed_by": {
+    "id": 4515880,
+    "name": "yebo0805",
+    "username": "yebo0805",
+    "iam_id": "63d12e68b8f049b3b506a3d0da95bfb4",
+    "nick_name": "yebo0805",
+    "state": "active",
+    "email": "",
+    "name_cn": "",
+    "web_url": "https://gitcode.com/yebo0805"
+  },
+  "closed_at": "2025-03-16T18:22:33+08:00",
+  "target_branch": "main",
+  "source_branch": "main",
+  "source_project_id": 4849434,
+  "force_remove_source_branch": false,
+  "web_url": "https://gitcode.com/cueb-fintech/courses/merge_requests/2",
+  "merge_request_type": "MergeRequest",
+  "added_lines": 0,
+  "removed_lines": 0,
+  "diff_refs": {
+    "base_sha": "55808aad315d90e49e6b7f4a37fd92af3c413455",
+    "head_sha": "4631d2d9b9b172357ddb81dc8f14b5733f79f91c",
+    "start_sha": "55808aad315d90e49e6b7f4a37fd92af3c413455"
+  },
+  "notes": 1,
+  "can_merge_check": false,
+  "mergeable": false,
+  "locked": false
+}
