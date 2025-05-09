@@ -1,0 +1,141 @@
+{
+  "number": 41,
+  "html_url": "https://gitcode.com/cueb-fintech/week01/merge_requests/41",
+  "url": "https://gitcode.com/api/v5/repos/cueb-fintech/week01/pulls/41",
+  "close_related_issue": 0,
+  "prune_branch": false,
+  "draft": false,
+  "labels": [],
+  "user": {
+    "id": "67caf0cf4fa34746f03d8702",
+    "user_id": "4489046",
+    "object_id": "67caf0cf4fa34746f03d8702",
+    "login": "Dennis_C",
+    "name": "Dennis_C",
+    "state": "active",
+    "email": "",
+    "name_cn": "",
+    "html_url": "https://gitcode.com/Dennis_C"
+  },
+  "assignees": [],
+  "testers": [],
+  "head": {
+    "label": "main",
+    "ref": "main",
+    "sha": "b60c63a0cda63ef1cc49f6aabef28d86126e1b49",
+    "user": {
+      "id": "67caf0cf4fa34746f03d8702",
+      "login": "Dennis_C",
+      "name": "Dennis_C",
+      "state": "active",
+      "email": "Dennis_C@noreply.gitcode.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/Dennis_C"
+    },
+    "repo": {
+      "id": 4847850,
+      "full_path": "Dennis_C/week01",
+      "full_name": "Dennis_C/week01",
+      "human_name": "Dennis_C / 第01周打卡",
+      "name": "第01周打卡",
+      "path": "week01",
+      "description": "学生 Fork 此仓库并通过 PR 提交第 1 周学习报告",
+      "owner": {
+        "id": "67caf0cf4fa34746f03d8702",
+        "login": "Dennis_C",
+        "name": "Dennis_C",
+        "state": "active",
+        "email": "Dennis_C@noreply.gitcode.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/Dennis_C"
+      },
+      "assigner": {
+        "id": "67caf0cf4fa34746f03d8702",
+        "login": "Dennis_C",
+        "name": "Dennis_C",
+        "state": "active",
+        "email": "Dennis_C@noreply.gitcode.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/Dennis_C"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/Dennis_C/week01.git"
+    }
+  },
+  "base": {
+    "label": "main",
+    "ref": "main",
+    "sha": "e4314c391a769f545251081dd761588bf2c10cbc",
+    "user": {
+      "id": "67bbb3b5f510074c7d28739e",
+      "login": "mutecamel",
+      "name": "mutecamel",
+      "state": "active",
+      "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+      "email": "mutecamel@gmail.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/mutecamel"
+    },
+    "repo": {
+      "id": 4797430,
+      "full_path": "cueb-fintech/week01",
+      "full_name": "cueb-fintech/week01",
+      "human_name": "首经贸金融科技实验室 / 第01周打卡",
+      "name": "第01周打卡",
+      "path": "week01",
+      "description": "学生 Fork 此仓库并通过 PR 提交第 1 周学习报告",
+      "owner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "assigner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/cueb-fintech/week01.git"
+    }
+  },
+  "id": 6631893,
+  "iid": 41,
+  "project_id": 4797430,
+  "title": "第一周学习笔记",
+  "body": "添加了第一周学习报告\n更新了第一周学习笔记内PDF上传相关内容",
+  "state": "open",
+  "assignees_number": 0,
+  "testers_number": 0,
+  "created_at": "2025-03-09T16:08:09+08:00",
+  "updated_at": "2025-03-09T16:08:14+08:00",
+  "merged_at": "",
+  "closed_at": "",
+  "target_branch": "main",
+  "source_branch": "main",
+  "source_project_id": 4847850,
+  "force_remove_source_branch": false,
+  "web_url": "https://gitcode.com/cueb-fintech/week01/merge_requests/41",
+  "merge_request_type": "MergeRequest",
+  "added_lines": 0,
+  "removed_lines": 0,
+  "diff_refs": {
+    "base_sha": "e4314c391a769f545251081dd761588bf2c10cbc",
+    "head_sha": "b60c63a0cda63ef1cc49f6aabef28d86126e1b49",
+    "start_sha": "e4314c391a769f545251081dd761588bf2c10cbc"
+  },
+  "notes": 0,
+  "source_git_url": "git@gitcode.com:Dennis_C/week01.git",
+  "can_merge_check": false,
+  "mergeable": false,
+  "locked": false
+}

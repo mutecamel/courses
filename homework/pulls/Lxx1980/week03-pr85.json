@@ -1,0 +1,141 @@
+{
+  "number": 85,
+  "html_url": "https://gitcode.com/cueb-fintech/week03/merge_requests/85",
+  "url": "https://gitcode.com/api/v5/repos/cueb-fintech/week03/pulls/85",
+  "close_related_issue": 0,
+  "prune_branch": false,
+  "draft": false,
+  "labels": [],
+  "user": {
+    "id": "67cfcb6e5be8781912528aed",
+    "user_id": "4545340",
+    "object_id": "67cfcb6e5be8781912528aed",
+    "login": "Lxx1980",
+    "name": "Lxx1980",
+    "state": "active",
+    "email": "",
+    "name_cn": "",
+    "html_url": "https://gitcode.com/Lxx1980"
+  },
+  "assignees": [],
+  "testers": [],
+  "head": {
+    "label": "main",
+    "ref": "main",
+    "sha": "47bd22ae54b528c35997ebd342625c224e964ea9",
+    "user": {
+      "id": "67cfcb6e5be8781912528aed",
+      "login": "Lxx1980",
+      "name": "Lxx1980",
+      "state": "active",
+      "email": "Lxx1980@noreply.gitcode.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/Lxx1980"
+    },
+    "repo": {
+      "id": 4971215,
+      "full_path": "Lxx1980/week03",
+      "full_name": "Lxx1980/week03",
+      "human_name": "Lxx1980 / 第03周打卡",
+      "name": "第03周打卡",
+      "path": "week03",
+      "description": "学生 Fork 此仓库并通过 PR 提交第 3 周学习报告",
+      "owner": {
+        "id": "67cfcb6e5be8781912528aed",
+        "login": "Lxx1980",
+        "name": "Lxx1980",
+        "state": "active",
+        "email": "Lxx1980@noreply.gitcode.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/Lxx1980"
+      },
+      "assigner": {
+        "id": "67cfcb6e5be8781912528aed",
+        "login": "Lxx1980",
+        "name": "Lxx1980",
+        "state": "active",
+        "email": "Lxx1980@noreply.gitcode.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/Lxx1980"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/Lxx1980/week03.git"
+    }
+  },
+  "base": {
+    "label": "main",
+    "ref": "main",
+    "sha": "5ddaabc391fbc7c70f84f469d4bce4f1d6a5df4b",
+    "user": {
+      "id": "67bbb3b5f510074c7d28739e",
+      "login": "mutecamel",
+      "name": "mutecamel",
+      "state": "active",
+      "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+      "email": "mutecamel@gmail.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/mutecamel"
+    },
+    "repo": {
+      "id": 4830314,
+      "full_path": "cueb-fintech/week03",
+      "full_name": "cueb-fintech/week03",
+      "human_name": "首经贸金融科技实验室 / 第03周打卡",
+      "name": "第03周打卡",
+      "path": "week03",
+      "description": "学生 Fork 此仓库并通过 PR 提交第 3 周学习报告",
+      "owner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "assigner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/cueb-fintech/week03.git"
+    }
+  },
+  "id": 6713502,
+  "iid": 85,
+  "project_id": 4830314,
+  "title": "添加第三周学习报告",
+  "body": "添加第三周学习报告",
+  "state": "open",
+  "assignees_number": 0,
+  "testers_number": 0,
+  "created_at": "2025-03-29T20:47:22+08:00",
+  "updated_at": "2025-03-29T20:47:25+08:00",
+  "merged_at": "",
+  "closed_at": "",
+  "target_branch": "main",
+  "source_branch": "main",
+  "source_project_id": 4971215,
+  "force_remove_source_branch": false,
+  "web_url": "https://gitcode.com/cueb-fintech/week03/merge_requests/85",
+  "merge_request_type": "MergeRequest",
+  "added_lines": 0,
+  "removed_lines": 0,
+  "diff_refs": {
+    "base_sha": "5ddaabc391fbc7c70f84f469d4bce4f1d6a5df4b",
+    "head_sha": "47bd22ae54b528c35997ebd342625c224e964ea9",
+    "start_sha": "5ddaabc391fbc7c70f84f469d4bce4f1d6a5df4b"
+  },
+  "notes": 0,
+  "source_git_url": "git@gitcode.com:Lxx1980/week03.git",
+  "can_merge_check": false,
+  "mergeable": false,
+  "locked": false
+}

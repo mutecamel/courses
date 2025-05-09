@@ -1,0 +1,141 @@
+{
+  "number": 19,
+  "html_url": "https://gitcode.com/cueb-fintech/week04/merge_requests/19",
+  "url": "https://gitcode.com/api/v5/repos/cueb-fintech/week04/pulls/19",
+  "close_related_issue": 0,
+  "prune_branch": false,
+  "draft": false,
+  "labels": [],
+  "user": {
+    "id": "67cd8f0eae95970c45131b58",
+    "user_id": "4514235",
+    "object_id": "67cd8f0eae95970c45131b58",
+    "login": "zrb1016",
+    "name": "zrb1016",
+    "state": "active",
+    "email": "",
+    "name_cn": "",
+    "html_url": "https://gitcode.com/zrb1016"
+  },
+  "assignees": [],
+  "testers": [],
+  "head": {
+    "label": "main",
+    "ref": "main",
+    "sha": "4de09de482e8baf6e1f3f82d7607c7036921364e",
+    "user": {
+      "id": "67cd8f0eae95970c45131b58",
+      "login": "zrb1016",
+      "name": "zrb1016",
+      "state": "active",
+      "email": "zrb1016@noreply.gitcode.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/zrb1016"
+    },
+    "repo": {
+      "id": 4960121,
+      "full_path": "zrb1016/week04",
+      "full_name": "zrb1016/week04",
+      "human_name": "zrb1016 / 第04周打卡",
+      "name": "第04周打卡",
+      "path": "week04",
+      "description": "学生 Fork 此仓库并通过 PR 提交第 4 周学习报告",
+      "owner": {
+        "id": "67cd8f0eae95970c45131b58",
+        "login": "zrb1016",
+        "name": "zrb1016",
+        "state": "active",
+        "email": "zrb1016@noreply.gitcode.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/zrb1016"
+      },
+      "assigner": {
+        "id": "67cd8f0eae95970c45131b58",
+        "login": "zrb1016",
+        "name": "zrb1016",
+        "state": "active",
+        "email": "zrb1016@noreply.gitcode.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/zrb1016"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/zrb1016/week04.git"
+    }
+  },
+  "base": {
+    "label": "main",
+    "ref": "main",
+    "sha": "a56225a32bb672b45d1e32ae966eed2510de54cd",
+    "user": {
+      "id": "67bbb3b5f510074c7d28739e",
+      "login": "mutecamel",
+      "name": "mutecamel",
+      "state": "active",
+      "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+      "email": "mutecamel@gmail.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/mutecamel"
+    },
+    "repo": {
+      "id": 4830317,
+      "full_path": "cueb-fintech/week04",
+      "full_name": "cueb-fintech/week04",
+      "human_name": "首经贸金融科技实验室 / 第04周打卡",
+      "name": "第04周打卡",
+      "path": "week04",
+      "description": "学生 Fork 此仓库并通过 PR 提交第 4 周学习报告",
+      "owner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "assigner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/cueb-fintech/week04.git"
+    }
+  },
+  "id": 6710395,
+  "iid": 19,
+  "project_id": 4830317,
+  "title": "week04",
+  "body": "week04",
+  "state": "open",
+  "assignees_number": 0,
+  "testers_number": 0,
+  "created_at": "2025-03-28T20:24:55+08:00",
+  "updated_at": "2025-03-28T20:24:58+08:00",
+  "merged_at": "",
+  "closed_at": "",
+  "target_branch": "main",
+  "source_branch": "main",
+  "source_project_id": 4960121,
+  "force_remove_source_branch": false,
+  "web_url": "https://gitcode.com/cueb-fintech/week04/merge_requests/19",
+  "merge_request_type": "MergeRequest",
+  "added_lines": 0,
+  "removed_lines": 0,
+  "diff_refs": {
+    "base_sha": "a56225a32bb672b45d1e32ae966eed2510de54cd",
+    "head_sha": "4de09de482e8baf6e1f3f82d7607c7036921364e",
+    "start_sha": "a56225a32bb672b45d1e32ae966eed2510de54cd"
+  },
+  "notes": 0,
+  "source_git_url": "git@gitcode.com:zrb1016/week04.git",
+  "can_merge_check": false,
+  "mergeable": false,
+  "locked": false
+}

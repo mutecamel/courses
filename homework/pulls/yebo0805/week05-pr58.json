@@ -1,0 +1,141 @@
+{
+  "number": 58,
+  "html_url": "https://gitcode.com/cueb-fintech/week05/merge_requests/58",
+  "url": "https://gitcode.com/api/v5/repos/cueb-fintech/week05/pulls/58",
+  "close_related_issue": 0,
+  "prune_branch": false,
+  "draft": false,
+  "labels": [],
+  "user": {
+    "id": "67cda8736891be0d6ca5bd0e",
+    "user_id": "4515880",
+    "object_id": "67cda8736891be0d6ca5bd0e",
+    "login": "yebo0805",
+    "name": "yebo0805",
+    "state": "active",
+    "email": "",
+    "name_cn": "",
+    "html_url": "https://gitcode.com/yebo0805"
+  },
+  "assignees": [],
+  "testers": [],
+  "head": {
+    "label": "main",
+    "ref": "main",
+    "sha": "db7b91f6a909f1eb7e7c4ce320e2d31be2e36e4f",
+    "user": {
+      "id": "67cda8736891be0d6ca5bd0e",
+      "login": "yebo0805",
+      "name": "yebo0805",
+      "state": "active",
+      "email": "yebo0805@noreply.gitcode.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/yebo0805"
+    },
+    "repo": {
+      "id": 5126647,
+      "full_path": "yebo0805/week05",
+      "full_name": "yebo0805/week05",
+      "human_name": "yebo0805 / 第05周打卡",
+      "name": "第05周打卡",
+      "path": "week05",
+      "description": "学生 Fork 此仓库并通过 PR 提交第 5 周学习报告",
+      "owner": {
+        "id": "67cda8736891be0d6ca5bd0e",
+        "login": "yebo0805",
+        "name": "yebo0805",
+        "state": "active",
+        "email": "yebo0805@noreply.gitcode.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/yebo0805"
+      },
+      "assigner": {
+        "id": "67cda8736891be0d6ca5bd0e",
+        "login": "yebo0805",
+        "name": "yebo0805",
+        "state": "active",
+        "email": "yebo0805@noreply.gitcode.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/yebo0805"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/yebo0805/week05.git"
+    }
+  },
+  "base": {
+    "label": "main",
+    "ref": "main",
+    "sha": "34348ab76462e873643107d4a010c91fcec2fd6f",
+    "user": {
+      "id": "67bbb3b5f510074c7d28739e",
+      "login": "mutecamel",
+      "name": "mutecamel",
+      "state": "active",
+      "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+      "email": "mutecamel@gmail.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/mutecamel"
+    },
+    "repo": {
+      "id": 4830320,
+      "full_path": "cueb-fintech/week05",
+      "full_name": "cueb-fintech/week05",
+      "human_name": "首经贸金融科技实验室 / 第05周打卡",
+      "name": "第05周打卡",
+      "path": "week05",
+      "description": "学生 Fork 此仓库并通过 PR 提交第 5 周学习报告",
+      "owner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "assigner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/cueb-fintech/week05.git"
+    }
+  },
+  "id": 6740747,
+  "iid": 58,
+  "project_id": 4830320,
+  "title": "添加了报告和文件",
+  "body": "添加了报告和文件",
+  "state": "open",
+  "assignees_number": 0,
+  "testers_number": 0,
+  "created_at": "2025-04-14T10:32:56+08:00",
+  "updated_at": "2025-04-14T10:33:02+08:00",
+  "merged_at": "",
+  "closed_at": "",
+  "target_branch": "main",
+  "source_branch": "main",
+  "source_project_id": 5126647,
+  "force_remove_source_branch": false,
+  "web_url": "https://gitcode.com/cueb-fintech/week05/merge_requests/58",
+  "merge_request_type": "MergeRequest",
+  "added_lines": 42,
+  "removed_lines": 0,
+  "diff_refs": {
+    "base_sha": "34348ab76462e873643107d4a010c91fcec2fd6f",
+    "head_sha": "db7b91f6a909f1eb7e7c4ce320e2d31be2e36e4f",
+    "start_sha": "34348ab76462e873643107d4a010c91fcec2fd6f"
+  },
+  "notes": 0,
+  "source_git_url": "git@gitcode.com:yebo0805/week05.git",
+  "can_merge_check": false,
+  "mergeable": false,
+  "locked": false
+}

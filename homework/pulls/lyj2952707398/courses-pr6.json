@@ -1,0 +1,141 @@
+{
+  "number": 6,
+  "html_url": "https://gitcode.com/cueb-fintech/courses/merge_requests/6",
+  "url": "https://gitcode.com/api/v5/repos/cueb-fintech/courses/pulls/6",
+  "close_related_issue": 0,
+  "prune_branch": false,
+  "draft": false,
+  "labels": [],
+  "user": {
+    "id": "67ccfbbad5e00b4e1da6547c",
+    "user_id": "4505656",
+    "object_id": "67ccfbbad5e00b4e1da6547c",
+    "login": "lyj2952707398",
+    "name": "Frank8423",
+    "state": "active",
+    "email": "",
+    "name_cn": "",
+    "html_url": "https://gitcode.com/lyj2952707398"
+  },
+  "assignees": [],
+  "testers": [],
+  "head": {
+    "label": "main",
+    "ref": "main",
+    "sha": "6bc391c0f9e5bf4e9bc2f9a4f43ef692272ce2a6",
+    "user": {
+      "id": "67ccfbbad5e00b4e1da6547c",
+      "login": "lyj2952707398",
+      "name": "Frank8423",
+      "state": "active",
+      "email": "lyj2952707398@126.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/lyj2952707398"
+    },
+    "repo": {
+      "id": 4910574,
+      "full_path": "lyj2952707398/courses",
+      "full_name": "lyj2952707398/courses",
+      "human_name": "lyj2952707398 / 课程资料",
+      "name": "课程资料",
+      "path": "courses",
+      "description": "开源贡献",
+      "owner": {
+        "id": "67ccfbbad5e00b4e1da6547c",
+        "login": "lyj2952707398",
+        "name": "Frank8423",
+        "state": "active",
+        "email": "lyj2952707398@126.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/lyj2952707398"
+      },
+      "assigner": {
+        "id": "67ccfbbad5e00b4e1da6547c",
+        "login": "lyj2952707398",
+        "name": "Frank8423",
+        "state": "active",
+        "email": "lyj2952707398@126.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/lyj2952707398"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/lyj2952707398/courses.git"
+    }
+  },
+  "base": {
+    "label": "main",
+    "ref": "main",
+    "sha": "0ec4dad5a865b266628461d0b2d6c70ed9e796ee",
+    "user": {
+      "id": "67bbb3b5f510074c7d28739e",
+      "login": "mutecamel",
+      "name": "mutecamel",
+      "state": "active",
+      "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+      "email": "mutecamel@gmail.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/mutecamel"
+    },
+    "repo": {
+      "id": 4797408,
+      "full_path": "cueb-fintech/courses",
+      "full_name": "cueb-fintech/courses",
+      "human_name": "首经贸金融科技实验室 / 金融AI编程实战",
+      "name": "金融AI编程实战",
+      "path": "courses",
+      "description": "为非计算机科班出身 (例如财经类高校金融学院) 同学量身定制，新手友好，让学生以亲身实践开源开发的方式，学会使用计算机自动化自己的科研/创新工作。案例以量化投资为主线，涉及 Bash、Python、SQL、BI、AI 等全技术栈，培养面向未来的数智化人才 (如数据工程师、数据分析师、数据科学家、数据决策者、量化投资人)。",
+      "owner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "assigner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/cueb-fintech/courses.git"
+    }
+  },
+  "id": 6713302,
+  "iid": 6,
+  "project_id": 4797408,
+  "title": "关于第四周作业无法push提交的解决方案",
+  "body": "关于第四周作业无法push提交的解决方案。主要出现原因在于本周的week04文件夹并非往常复制SSH地址进行克隆，故提交学习笔记时无法免密登陆。该份pdf提供免密登陆的具体操作流程（附带图片），其他方法如下所示：\n\n这个错误表明你正在尝试使用密码进行 Git 认证，但 Git 平台（如 GitHub、GitLab 或 GitCode）已经移除了密码认证方式，要求使用 ​Personal Access Token (PAT) 代替。以下是完整的解决方案：\n\n# ​1. 生成 Personal Access Token (PAT)\n​在 GitCode（或 GitHub/GitLab）上生成 Token\n登录你的 GitCode 账户（https://gitcode.com）。\n进入 ​Settings → ​Access Tokens​（或类似选项）。\n点击 ​Generate New Token。\n填写 Token 描述（如 MyGitToken）。\n选择权限（至少勾选 repo 或 write_repository）。\n点击 ​Generate Token，并复制 Token​（⚠️ 关闭页面后无法再次查看，请妥善保存）。\n\n# ​2. 使用 Token 代替密码\n​方法 1：直接替换密码\n运行 git push 时，Git 会弹出认证窗口：\nbash\ngit push\n​用户名：输入你的 GitCode 用户名（如 lyj2952707398）。\n​密码：​粘贴你的 Token​（而不是 GitCode 密码）。\n​方法 2：配置 Git 缓存 Token\nbash\ngit config --global credential.helper store\n然后运行 git push，输入用户名和 Token，Git 会缓存认证信息（后续无需重复输入）。\n\n# ​3. 如果仍然失败\n​检查远程仓库 URL\n确保你的远程仓库 URL 是 HTTPS 格式（如 https://gitcode.com/lyj2952707398/week04.git）。\n如果需要修改：\n\nbash\ngit remote set-url origin https://gitcode.com/lyj2952707398/week04.git\n​强制使用 Token\n在 URL 中直接嵌入 Token：\n\nbash\ngit remote set-url origin https://<TOKEN>@gitcode.com/lyj2952707398/week04.git\n（替换 <TOKEN> 为你的实际 Token）\n\n# 4. 改用 SSH 认证（即为本文档方法）​\n如果不想每次输入 Token，可以改用 ​SSH 密钥认证：\n\n​生成 SSH 密钥：\nbash\nssh-keygen -t ed25519 -C \"your_email@example.com\"\n​将公钥（~/.ssh/id_ed25519.pub）添加到 GitCode：\n进入 GitCode ​Settings → ​SSH Keys。\n粘贴公钥内容。\n​修改远程仓库为 SSH 地址：\nbash\ngit remote set-url origin git@gitcode.com:lyj2952707398/week04.git\n现在可以免密推送：\nbash\ngit push",
+  "state": "merged",
+  "assignees_number": 0,
+  "testers_number": 0,
+  "created_at": "2025-03-29T15:56:40+08:00",
+  "updated_at": "2025-04-01T13:05:51+08:00",
+  "merged_at": "2025-04-01T13:05:50+08:00",
+  "closed_at": "2025-04-01T13:05:50+08:00",
+  "target_branch": "main",
+  "source_branch": "main",
+  "source_project_id": 4910574,
+  "force_remove_source_branch": false,
+  "web_url": "https://gitcode.com/cueb-fintech/courses/merge_requests/6",
+  "merge_request_type": "MergeRequest",
+  "added_lines": 0,
+  "removed_lines": 0,
+  "diff_refs": {
+    "base_sha": "8e81bd269dba2b4fa2caca7106de1b2268190842",
+    "head_sha": "6bc391c0f9e5bf4e9bc2f9a4f43ef692272ce2a6",
+    "start_sha": "2b8a2bb7f7515f79bd17f825919678f4acce3d59"
+  },
+  "notes": 0,
+  "source_git_url": "git@gitcode.com:lyj2952707398/courses.git",
+  "can_merge_check": true,
+  "mergeable": false,
+  "locked": false
+}

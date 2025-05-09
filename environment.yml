@@ -1,0 +1,28 @@
+name: courses
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - python-dotenv
+  - wat-inspector
+  - orjson
+  - requests
+  - pytest
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - polars
+  - duckdb
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - marimo
+  - python-lsp-server
+  - altair-all
+  - gitpython
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    - "-e ."

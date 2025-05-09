@@ -1,0 +1,152 @@
+{
+  "number": 95,
+  "html_url": "https://gitcode.com/cueb-fintech/week01/merge_requests/95",
+  "url": "https://gitcode.com/api/v5/repos/cueb-fintech/week01/pulls/95",
+  "close_related_issue": 0,
+  "prune_branch": false,
+  "draft": false,
+  "labels": [],
+  "user": {
+    "id": "67cd3cfbe750a14924c9b80e",
+    "user_id": "4508973",
+    "object_id": "67cd3cfbe750a14924c9b80e",
+    "login": "QI-PENG-YU",
+    "name": "QI-PENG-YU",
+    "state": "active",
+    "email": "",
+    "name_cn": "",
+    "html_url": "https://gitcode.com/QI-PENG-YU"
+  },
+  "assignees": [],
+  "testers": [],
+  "head": {
+    "label": "main",
+    "ref": "main",
+    "sha": "d221afacff5efbc48de9656a5111930c193d4206",
+    "user": {
+      "id": "67cd3cfbe750a14924c9b80e",
+      "login": "QI-PENG-YU",
+      "name": "QI-PENG-YU",
+      "state": "active",
+      "email": "QI-PENG-YU@noreply.gitcode.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/QI-PENG-YU"
+    },
+    "repo": {
+      "id": 4849304,
+      "full_path": "QI-PENG-YU/week01",
+      "full_name": "QI-PENG-YU/week01",
+      "human_name": "QI-PENG-YU / 第01周打卡",
+      "name": "第01周打卡",
+      "path": "week01",
+      "description": "学生 Fork 此仓库并通过 PR 提交第 1 周学习报告",
+      "owner": {
+        "id": "67cd3cfbe750a14924c9b80e",
+        "login": "QI-PENG-YU",
+        "name": "QI-PENG-YU",
+        "state": "active",
+        "email": "QI-PENG-YU@noreply.gitcode.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/QI-PENG-YU"
+      },
+      "assigner": {
+        "id": "67cd3cfbe750a14924c9b80e",
+        "login": "QI-PENG-YU",
+        "name": "QI-PENG-YU",
+        "state": "active",
+        "email": "QI-PENG-YU@noreply.gitcode.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/QI-PENG-YU"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/QI-PENG-YU/week01.git"
+    }
+  },
+  "base": {
+    "label": "main",
+    "ref": "main",
+    "sha": "e4314c391a769f545251081dd761588bf2c10cbc",
+    "user": {
+      "id": "67bbb3b5f510074c7d28739e",
+      "login": "mutecamel",
+      "name": "mutecamel",
+      "state": "active",
+      "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+      "email": "mutecamel@gmail.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/mutecamel"
+    },
+    "repo": {
+      "id": 4797430,
+      "full_path": "cueb-fintech/week01",
+      "full_name": "cueb-fintech/week01",
+      "human_name": "首经贸金融科技实验室 / 第01周打卡",
+      "name": "第01周打卡",
+      "path": "week01",
+      "description": "学生 Fork 此仓库并通过 PR 提交第 1 周学习报告",
+      "owner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "assigner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/cueb-fintech/week01.git"
+    }
+  },
+  "id": 6688513,
+  "iid": 95,
+  "project_id": 4797430,
+  "title": "第一周作业",
+  "body": "添加学习报告",
+  "state": "closed",
+  "assignees_number": 0,
+  "testers_number": 0,
+  "created_at": "2025-03-13T11:54:58+08:00",
+  "updated_at": "2025-03-13T11:56:45+08:00",
+  "merged_at": "",
+  "closed_by": {
+    "id": 4508973,
+    "name": "QI-PENG-YU",
+    "username": "QI-PENG-YU",
+    "iam_id": "6d605fd17fbb4a89a4d8ff0f4376492b",
+    "nick_name": "QI-PENG-YU",
+    "state": "active",
+    "email": "",
+    "name_cn": "",
+    "web_url": "https://gitcode.com/QI-PENG-YU"
+  },
+  "closed_at": "2025-03-13T11:56:45+08:00",
+  "target_branch": "main",
+  "source_branch": "main",
+  "source_project_id": 4849304,
+  "force_remove_source_branch": false,
+  "web_url": "https://gitcode.com/cueb-fintech/week01/merge_requests/95",
+  "merge_request_type": "MergeRequest",
+  "added_lines": 0,
+  "removed_lines": 0,
+  "diff_refs": {
+    "base_sha": "e4314c391a769f545251081dd761588bf2c10cbc",
+    "head_sha": "d221afacff5efbc48de9656a5111930c193d4206",
+    "start_sha": "e4314c391a769f545251081dd761588bf2c10cbc"
+  },
+  "notes": 0,
+  "source_git_url": "git@gitcode.com:QI-PENG-YU/week01.git",
+  "can_merge_check": false,
+  "mergeable": false,
+  "locked": false
+}
