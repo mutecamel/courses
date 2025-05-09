@@ -1,0 +1,5 @@
+name: guessing_game_env
+dependencies:
+  - python=3.12
+  - pip:
+    - -e.

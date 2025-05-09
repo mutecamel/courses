@@ -1,0 +1,26 @@
+[project]
+name = "myphg"
+version = "2025.4.14"
+dependencies = [
+ 
+]
+authors = [
+  {name = "Amber", email = "zgx_amber@163.com"},
+]
+
+description = "test"
+
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = [
+    "src/mypacket",
+    ]

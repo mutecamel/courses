@@ -1,0 +1,12 @@
+name: week06
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - ruff
+  - wat-inspector
+  - pip
+  - pip:
+    -"-e ."
+
+  

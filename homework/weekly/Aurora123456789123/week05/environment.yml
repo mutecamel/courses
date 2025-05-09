@@ -1,0 +1,6 @@
+name: week04_9383
+channels:
+  - conda-forge
+dependencies:
+  - python3.12
+  - wat-inspector

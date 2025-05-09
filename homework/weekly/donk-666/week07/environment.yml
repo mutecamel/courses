@@ -1,0 +1,17 @@
+name: week07
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - ruff
+  - wat-inspector
+  - jupyterlab
+  - pip
+  - pyarrow
+  - perspective-python
+  - polars
+  - pip:
+    - tushare
+    
+
+  
