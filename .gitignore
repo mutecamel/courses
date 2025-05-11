@@ -106,3 +106,4 @@ venv.bak/
 .virtual_documents
 
 # user data
+user/
