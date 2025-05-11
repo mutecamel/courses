@@ -21,6 +21,7 @@ dependencies:
   - python-lsp-server
   - altair-all
   - gitpython
+  - great_tables
   - pip
   - pip:
     - perspective-python
