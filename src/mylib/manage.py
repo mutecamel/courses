@@ -8,6 +8,7 @@ assert Path.cwd().name == "courses"
 
 
 base_dir = Path("user")
+base_dir.mkdir(exist_ok=True)
 
 
 def read_tsv(fp: Path) -> pl.DataFrame:
