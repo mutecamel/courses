@@ -1,0 +1,14 @@
+name: week07
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - jupyterlab
+  - ipywidgets
+  - pyarrow
+  - polars
+  - pip
+  - pip: 
+    - tushare
+    - perspective-python

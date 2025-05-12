@@ -1,0 +1,141 @@
+{
+  "number": 122,
+  "html_url": "https://gitcode.com/cueb-fintech/week01/merge_requests/122",
+  "url": "https://gitcode.com/api/v5/repos/cueb-fintech/week01/pulls/122",
+  "close_related_issue": 0,
+  "prune_branch": false,
+  "draft": false,
+  "labels": [],
+  "user": {
+    "id": "67d9228f57e6203abdaa51ec",
+    "user_id": "4676893",
+    "object_id": "67d9228f57e6203abdaa51ec",
+    "login": "qingtianwawa",
+    "name": "qingtianwawa",
+    "state": "active",
+    "email": "",
+    "name_cn": "",
+    "html_url": "https://gitcode.com/qingtianwawa"
+  },
+  "assignees": [],
+  "testers": [],
+  "head": {
+    "label": "main",
+    "ref": "main",
+    "sha": "bfcf3ef6d9c10aa88dd94ae5d92d4c31e89899b0",
+    "user": {
+      "id": "67d9228f57e6203abdaa51ec",
+      "login": "qingtianwawa",
+      "name": "qingtianwawa",
+      "state": "active",
+      "email": "qingtianwawa@noreply.gitcode.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/qingtianwawa"
+    },
+    "repo": {
+      "id": 5435121,
+      "full_path": "qingtianwawa/week01",
+      "full_name": "qingtianwawa/week01",
+      "human_name": "qingtianwawa / 第01周打卡",
+      "name": "第01周打卡",
+      "path": "week01",
+      "description": "学生 Fork 此仓库并通过 PR 提交第 1 周学习报告",
+      "owner": {
+        "id": "67d9228f57e6203abdaa51ec",
+        "login": "qingtianwawa",
+        "name": "qingtianwawa",
+        "state": "active",
+        "email": "qingtianwawa@noreply.gitcode.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/qingtianwawa"
+      },
+      "assigner": {
+        "id": "67d9228f57e6203abdaa51ec",
+        "login": "qingtianwawa",
+        "name": "qingtianwawa",
+        "state": "active",
+        "email": "qingtianwawa@noreply.gitcode.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/qingtianwawa"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/qingtianwawa/week01.git"
+    }
+  },
+  "base": {
+    "label": "main",
+    "ref": "main",
+    "sha": "e4314c391a769f545251081dd761588bf2c10cbc",
+    "user": {
+      "id": "67bbb3b5f510074c7d28739e",
+      "login": "mutecamel",
+      "name": "mutecamel",
+      "state": "active",
+      "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+      "email": "mutecamel@gmail.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/mutecamel"
+    },
+    "repo": {
+      "id": 4797430,
+      "full_path": "cueb-fintech/week01",
+      "full_name": "cueb-fintech/week01",
+      "human_name": "首经贸金融科技实验室 / 第01周打卡",
+      "name": "第01周打卡",
+      "path": "week01",
+      "description": "学生 Fork 此仓库并通过 PR 提交第 1 周学习报告",
+      "owner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "assigner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/cueb-fintech/week01.git"
+    }
+  },
+  "id": 6842200,
+  "iid": 122,
+  "project_id": 4797430,
+  "title": "添加了学习报告",
+  "body": "添加了学习报告",
+  "state": "open",
+  "assignees_number": 0,
+  "testers_number": 0,
+  "created_at": "2025-05-11T21:24:21+08:00",
+  "updated_at": "2025-05-11T21:24:22+08:00",
+  "merged_at": "",
+  "closed_at": "",
+  "target_branch": "main",
+  "source_branch": "main",
+  "source_project_id": 5435121,
+  "force_remove_source_branch": false,
+  "web_url": "https://gitcode.com/cueb-fintech/week01/merge_requests/122",
+  "merge_request_type": "MergeRequest",
+  "added_lines": 0,
+  "removed_lines": 0,
+  "diff_refs": {
+    "base_sha": "e4314c391a769f545251081dd761588bf2c10cbc",
+    "head_sha": "bfcf3ef6d9c10aa88dd94ae5d92d4c31e89899b0",
+    "start_sha": "e4314c391a769f545251081dd761588bf2c10cbc"
+  },
+  "notes": 0,
+  "source_git_url": "git@gitcode.com:qingtianwawa/week01.git",
+  "can_merge_check": false,
+  "mergeable": false,
+  "locked": false
+}
