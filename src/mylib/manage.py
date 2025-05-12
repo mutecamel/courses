@@ -209,7 +209,7 @@ def read_usernames_external_wps(content: bytes) -> pl.DataFrame:
     df = df.rename(
         {
             "首经贸学号": "学号",
-            "GitCode ID": "用户名",
+            "GitCode登录用户名": "用户名",
         }
     )
     df = df.with_columns(
