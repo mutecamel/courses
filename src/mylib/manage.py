@@ -4,7 +4,7 @@ from typing import Literal
 
 import polars as pl
 
-assert Path.cwd().name == "courses"
+assert Path.cwd().name.startswith("courses")
 
 
 base_dir = Path("user")
