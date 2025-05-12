@@ -39,9 +39,11 @@
 
 <p align="center"><img src="images/teaching.drawio.svg" alt="Teaching Way" /></p>
 
-在考察评估多种可选方案的基础上，我们目前决定在国内的 `GitCode` 平台上托管我们的 [课程资料](https://gitcode.com/cueb-fintech/courses)。对应每一个教学周 (共 16 周)，我们都建立了一个代码仓库，通过 PR (Pull Requests) 机制来接收同学们提交的 PDF 报告 (但不合并)。通过这种开源代码平台协作的方式，我们师生的 “行动” 都在平台上公开记录，并可以借助平台提供的 [GitCode API](https://docs.gitcode.com/docs/apis) 功能，以编程的方式把 “行动” 数据下载存储到本地，进而自动计分、呈现报表，甚至还可以利用 AI 辅助评阅，减轻教师负担。
+在考察评估多种可选方案的基础上，我们目前决定在国内的 `GitCode` 平台上托管我们的 [课程资料](https://gitcode.com/cueb-fintech/courses)。对应每一个教学周 (共 16 周)，我们都建立了一个代码仓库，通过 PR (Pull Requests) 机制来接收同学们提交的 PDF 报告 (但不合并)。通过这种开源代码平台协作的方式，我们师生的 “行动” 都在平台上公开记录，并可以借助平台提供的 [GitCode API](https://docs.gitcode.com/docs/apis) 功能，以编程的方式把 “行动” 数据下载整合进本地仓库里，进而自动计分、呈现报表，甚至还可以利用 AI 辅助评阅，减轻教师负担。
 
 <p align="center"><img src="images/working.drawio.svg" alt="Working Way" /></p>
+
+课程管理分为三大模块：**数据集成**、**班级管理** 和 **成绩报表**，代码都在本仓库开源 (班级和学生信息等隐私数据不公开)。这些代码本身也是一种 **案例教学**，我们就是希望学生能够掌握这种 *收集* → *清洗* → *存储* → *计算* → *分析* → *建模* → *预测* → *呈现* 的数据全流程能力。
 
 ## 教学大纲
 
