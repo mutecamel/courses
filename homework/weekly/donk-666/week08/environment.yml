@@ -1,0 +1,20 @@
+name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare

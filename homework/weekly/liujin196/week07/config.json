@@ -1,0 +1,28 @@
+{
+  "group_by": [],
+  "split_by": [],
+  "filter": [],
+  "sort": [],
+  "aggregates": {},
+  "columns": [
+    "ts_code",
+    "sub_code",
+    "name",
+    "ipo_date",
+    "issue_date",
+    "amount",
+    "market_amount",
+    "price",
+    "pe",
+    "limit_amount",
+    "funds",
+    "ballot"
+  ],
+  "expressions": {},
+  "plugin": "Datagrid",
+  "plugin_config": {},
+  "theme": null,
+  "settings": true,
+  "title": null,
+  "version": "3.6.0"
+}

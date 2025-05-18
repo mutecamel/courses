@@ -1,0 +1,13 @@
+name: week07
+channels:
+  - defaults
+
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - pip
+  - pip:
+      - tushare
+      - pyarrow
+      - perspective-python
+      - polars
