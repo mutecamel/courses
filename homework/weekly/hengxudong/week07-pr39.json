@@ -22,7 +22,7 @@
   "head": {
     "label": "main",
     "ref": "main",
-    "sha": "0688daec120a756d4cfeef6650af4419c4da4faf",
+    "sha": "cf235ee7114aa141d9d402e8b7cbc94b87c5eb06",
     "user": {
       "id": "67cc041297d2b54f3f7a45a8",
       "login": "hengxudong",
@@ -117,7 +117,7 @@
   "assignees_number": 0,
   "testers_number": 0,
   "created_at": "2025-05-11T19:42:08+08:00",
-  "updated_at": "2025-05-11T19:42:10+08:00",
+  "updated_at": "2025-05-18T01:02:19+08:00",
   "merged_at": "",
   "closed_at": "",
   "target_branch": "main",
@@ -126,11 +126,11 @@
   "force_remove_source_branch": false,
   "web_url": "https://gitcode.com/cueb-fintech/week07/merge_requests/39",
   "merge_request_type": "MergeRequest",
-  "added_lines": 879,
+  "added_lines": 1288,
   "removed_lines": 0,
   "diff_refs": {
     "base_sha": "97eded8f919b7dadce910cc1f3066cfd32ec5b8d",
-    "head_sha": "0688daec120a756d4cfeef6650af4419c4da4faf",
+    "head_sha": "cf235ee7114aa141d9d402e8b7cbc94b87c5eb06",
     "start_sha": "97eded8f919b7dadce910cc1f3066cfd32ec5b8d"
   },
   "notes": 0,

@@ -1,0 +1,8 @@
+import polars as pl
+from perspective import PerspectiveWidget
+
+# 从本地读取 Parquet 文件
+df = pl.read_parquet("new_share.parquet")
+
+# 用 Perspective 展示交互式表格
+PerspectiveWidget(df)

@@ -23,7 +23,7 @@
   "head": {
     "label": "main",
     "ref": "main",
-    "sha": "2a7a342879aeb367892fc513f4aa4229d32f06ce",
+    "sha": "45aab4fde8fb20331afc2ad523e7cf0ed85e98de",
     "user": {
       "id": "67c6a7011f32480065ae18ca",
       "login": "twinkledehaha",
@@ -121,7 +121,7 @@
   "assignees_number": 0,
   "testers_number": 0,
   "created_at": "2025-03-05T18:57:13+08:00",
-  "updated_at": "2025-03-05T18:57:15+08:00",
+  "updated_at": "2025-05-12T10:19:10+08:00",
   "merged_at": "",
   "closed_at": "",
   "target_branch": "main",
@@ -134,7 +134,7 @@
   "removed_lines": 0,
   "diff_refs": {
     "base_sha": "e4314c391a769f545251081dd761588bf2c10cbc",
-    "head_sha": "2a7a342879aeb367892fc513f4aa4229d32f06ce",
+    "head_sha": "45aab4fde8fb20331afc2ad523e7cf0ed85e98de",
     "start_sha": "e4314c391a769f545251081dd761588bf2c10cbc"
   },
   "notes": 0,

@@ -1,0 +1,141 @@
+{
+  "number": 17,
+  "html_url": "https://gitcode.com/cueb-fintech/week08/merge_requests/17",
+  "url": "https://gitcode.com/api/v5/repos/cueb-fintech/week08/pulls/17",
+  "close_related_issue": 0,
+  "prune_branch": false,
+  "draft": false,
+  "labels": [],
+  "user": {
+    "id": "67d031828f43e14f2b8e311b",
+    "user_id": "4555942",
+    "object_id": "67d031828f43e14f2b8e311b",
+    "login": "KJM04",
+    "name": "KJM04",
+    "state": "active",
+    "email": "",
+    "name_cn": "",
+    "html_url": "https://gitcode.com/KJM04"
+  },
+  "assignees": [],
+  "testers": [],
+  "head": {
+    "label": "main",
+    "ref": "main",
+    "sha": "a1f1cb4856794a6ec13c713b7f1a0de9967ba29f",
+    "user": {
+      "id": "67d031828f43e14f2b8e311b",
+      "login": "KJM04",
+      "name": "KJM04",
+      "state": "active",
+      "email": "KJM04@noreply.gitcode.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/KJM04"
+    },
+    "repo": {
+      "id": 5479702,
+      "full_path": "KJM04/week08",
+      "full_name": "KJM04/week08",
+      "human_name": "KJM04 / 第08周打卡",
+      "name": "第08周打卡",
+      "path": "week08",
+      "description": "学生 Fork 此仓库并通过 PR 提交第 8 周学习报告",
+      "owner": {
+        "id": "67d031828f43e14f2b8e311b",
+        "login": "KJM04",
+        "name": "KJM04",
+        "state": "active",
+        "email": "KJM04@noreply.gitcode.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/KJM04"
+      },
+      "assigner": {
+        "id": "67d031828f43e14f2b8e311b",
+        "login": "KJM04",
+        "name": "KJM04",
+        "state": "active",
+        "email": "KJM04@noreply.gitcode.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/KJM04"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/KJM04/week08.git"
+    }
+  },
+  "base": {
+    "label": "main",
+    "ref": "main",
+    "sha": "526e6f8983300f2618b46b9173bfd923d9ff7c1d",
+    "user": {
+      "id": "67bbb3b5f510074c7d28739e",
+      "login": "mutecamel",
+      "name": "mutecamel",
+      "state": "active",
+      "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+      "email": "mutecamel@gmail.com",
+      "name_cn": "",
+      "html_url": "https://gitcode.com/mutecamel"
+    },
+    "repo": {
+      "id": 4830335,
+      "full_path": "cueb-fintech/week08",
+      "full_name": "cueb-fintech/week08",
+      "human_name": "首经贸金融科技实验室 / 第08周打卡",
+      "name": "第08周打卡",
+      "path": "week08",
+      "description": "学生 Fork 此仓库并通过 PR 提交第 8 周学习报告",
+      "owner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "assigner": {
+        "id": "67bbb3b5f510074c7d28739e",
+        "login": "mutecamel",
+        "name": "mutecamel",
+        "state": "active",
+        "avatar_url": "https://cdn-img.gitcode.com/fb/ff/f05b2937f9fc3523cea23eb49c7f9042b48968370733119b5b535f820d214aab.jpg",
+        "email": "mutecamel@gmail.com",
+        "name_cn": "",
+        "html_url": "https://gitcode.com/mutecamel"
+      },
+      "internal": false,
+      "html_url": "https://gitcode.com/cueb-fintech/week08.git"
+    }
+  },
+  "id": 6921285,
+  "iid": 17,
+  "project_id": 4830335,
+  "title": "all",
+  "body": "全部\nall",
+  "state": "open",
+  "assignees_number": 0,
+  "testers_number": 0,
+  "created_at": "2025-05-18T18:38:12+08:00",
+  "updated_at": "2025-05-18T18:38:14+08:00",
+  "merged_at": "",
+  "closed_at": "",
+  "target_branch": "main",
+  "source_branch": "main",
+  "source_project_id": 5479702,
+  "force_remove_source_branch": false,
+  "web_url": "https://gitcode.com/cueb-fintech/week08/merge_requests/17",
+  "merge_request_type": "MergeRequest",
+  "added_lines": 2355,
+  "removed_lines": 0,
+  "diff_refs": {
+    "base_sha": "526e6f8983300f2618b46b9173bfd923d9ff7c1d",
+    "head_sha": "a1f1cb4856794a6ec13c713b7f1a0de9967ba29f",
+    "start_sha": "526e6f8983300f2618b46b9173bfd923d9ff7c1d"
+  },
+  "notes": 0,
+  "source_git_url": "git@gitcode.com:KJM04/week08.git",
+  "can_merge_check": false,
+  "mergeable": false,
+  "locked": false
+}

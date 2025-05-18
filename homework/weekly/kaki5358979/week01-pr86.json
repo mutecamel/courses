@@ -23,7 +23,7 @@
   "head": {
     "label": "main",
     "ref": "main",
-    "sha": "58dfe9ddbcf9343c8ed8c3c8a39fab0f3b3b514b",
+    "sha": "ea553f5c66ded080c4d1f86bd7235e0551d5c241",
     "user": {
       "id": "67cfc8ff11e5a15ac2e85aca",
       "login": "kaki5358979",
@@ -121,7 +121,7 @@
   "assignees_number": 0,
   "testers_number": 0,
   "created_at": "2025-03-11T23:14:21+08:00",
-  "updated_at": "2025-03-11T23:14:30+08:00",
+  "updated_at": "2025-05-17T13:05:50+08:00",
   "merged_at": "",
   "closed_at": "",
   "target_branch": "main",
@@ -134,7 +134,7 @@
   "removed_lines": 0,
   "diff_refs": {
     "base_sha": "e4314c391a769f545251081dd761588bf2c10cbc",
-    "head_sha": "58dfe9ddbcf9343c8ed8c3c8a39fab0f3b3b514b",
+    "head_sha": "ea553f5c66ded080c4d1f86bd7235e0551d5c241",
     "start_sha": "e4314c391a769f545251081dd761588bf2c10cbc"
   },
   "notes": 0,

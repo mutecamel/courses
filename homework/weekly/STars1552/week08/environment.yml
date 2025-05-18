@@ -1,0 +1,4883 @@
+name: week07
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - jupyterlab
+  - ipywidgets
+  - polars
+  - pyarrow
+  - pip
+  - pip:
+    - tushare
+    - perspective-python
+
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
+    name: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tusharename: week08
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - wat-inspector
+  - xlrd
+  - openpyxl
+  - fastexcel
+  - xlsxwriter
+  - pandas
+  - pyarrow
+  - polars
+  - jupyterlab
+  - ipywidgets
+  - jupyter-ruff
+  - pip
+  - pip:
+    - perspective-python
+    - tushare
